@@ -1,5 +1,5 @@
 # Let's get started with "Bonik": 
-Bonik is a university web project. We have tried to learn how to make and utilize an api through this project.
+Bonik is a university web API project. We have tried to learn how to make and utilize API through this project.
 
 ## **How to RUN this project:** 
 
